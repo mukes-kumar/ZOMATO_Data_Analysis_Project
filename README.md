@@ -1,4 +1,6 @@
 # Data_Analysis Project using Python
+Technologies use -: Python and Python Libraries like Pandas , Matplotlib , Seaborn 
+Tool use :- Jupyter Notebook
 ### I have a CSV file for data analysis -- Zomato_data.csv file 
 >Some information has to be extracted from this csv file as below some questions are given for data analysis.
 > 1. What type of restorant do the majority of customers order from?
